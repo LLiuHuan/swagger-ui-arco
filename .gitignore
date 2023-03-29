@@ -12,7 +12,6 @@ test/
 .DS_Store
 node_modules
 /screenshots
-/dist
 dist.zip
 dist_electron
 
